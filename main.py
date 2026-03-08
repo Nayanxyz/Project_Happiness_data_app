@@ -30,5 +30,5 @@ match select__box:
     case "Generosity":
         y_array = df["generosity"]
 
-figure = px.scatter(x=x_array, y=y_array , labels={"x": select_box, "y": select__box})
+figure = px.scatter(x=x_array, y=y_array , labels={"x": select_box, "y": select__box})                     #plotly data frame for  graphs
 st.plotly_chart(figure)

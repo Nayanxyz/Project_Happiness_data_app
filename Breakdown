@@ -16,3 +16,9 @@ Functions and Methods
     st.selectbox("...", (...)): A function that creates an interactive dropdown menu on the screen.
                                 It takes a prompt and a tuple of options, allowing the user to select a single variable.
 
+    st.subheader(...): A function that renders a secondary heading, slightly smaller than the title,
+                       often used to label specific sections of the app.
+
+    pd.read_csv("..."): A function that locates a comma-separated values (CSV) file on the computer's storage,
+                        reads its raw text, and converts it into a structured Pandas DataFrame object.
+

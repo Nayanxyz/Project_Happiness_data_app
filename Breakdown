@@ -9,3 +9,10 @@ Libraries
     pandas (imported as pd): A core data manipulation library used to read, analyze, and structure
                               tabular data (like spreadsheets or SQL tables) into usable objects.
 
+Functions and Methods
+
+    st.title("..."): A function that renders the main, top-level heading on the user interface of the web app.
+
+    st.selectbox("...", (...)): A function that creates an interactive dropdown menu on the screen.
+                                It takes a prompt and a tuple of options, allowing the user to select a single variable.
+

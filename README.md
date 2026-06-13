@@ -15,3 +15,9 @@ An interactive web application built with Streamlit and Plotly that allows users
 - **Pandas:** For data manipulation and CSV parsing.
 - **Plotly Express:** For rendering interactive charts.
 
+## 🚀 Quick Start
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Nayanxyz/Project_Happiness_data_app.git
+   cd Project_Happiness_data_app

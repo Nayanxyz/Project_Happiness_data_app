@@ -8,3 +8,10 @@ An interactive web application built with Streamlit and Plotly that allows users
 - **Interactive Controls:** Toggle between GDP, Happiness, and Generosity for both X and Y axes to discover hidden trends.
 - **Clean UI:** A minimalist, fast-loading interface powered by Streamlit.
 
+## 🛠️ Tech Stack
+
+- **Python 3.10+** (Required for `match-case` syntax)
+- **Streamlit:** For the frontend web framework.
+- **Pandas:** For data manipulation and CSV parsing.
+- **Plotly Express:** For rendering interactive charts.
+

@@ -1,0 +1,4 @@
+Libraries
+
+    streamlit (imported as st): A web framework utilized to instantly turn Python scripts into
+                                interactive web applications without requiring front-end development skills.

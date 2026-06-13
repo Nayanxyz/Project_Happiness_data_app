@@ -21,3 +21,19 @@ An interactive web application built with Streamlit and Plotly that allows users
    ```bash
    git clone https://github.com/Nayanxyz/Project_Happiness_data_app.git
    cd Project_Happiness_data_app
+   ```
+2. **Install dependencies:**
+Ensure you have the required libraries installed. You can install them via pip:
+
+```Bash
+pip install streamlit pandas plotly
+```
+
+3. **Add the dataset:**
+Ensure the data file happy.csv is located in the root directory of the project. (Note: The dataset must contain columns exactly named gdp, happiness, and generosity.)
+
+4. **Run the application:**
+
+```Bash
+streamlit run main.py
+```

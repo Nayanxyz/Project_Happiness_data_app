@@ -37,3 +37,9 @@ Classes and Structural Elements
     f"..." (f-string): A string formatting mechanism that dynamically embeds the variables chosen
                        by the user in the dropdowns directly into the subheader text.
 
+    match ... case ...:: A structural pattern-matching block. It evaluates the string selected by the user.
+                         Depending on which exact word was chosen (the case), it executes a specific branch of code to
+                         assign the correct data.
+
+    df["column_name"]: A slicing operation used on the DataFrame. It extracts one specific, vertical column of data
+                       (like "gdp" or "happiness") from the broader table so it can be fed into the graph.

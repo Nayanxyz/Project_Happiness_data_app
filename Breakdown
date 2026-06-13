@@ -5,3 +5,7 @@ Libraries
 
     plotly.express (imported as px): A high-level data visualization module used to generate interactive,
                                      complex graphs and charts with minimal code.
+
+    pandas (imported as pd): A core data manipulation library used to read, analyze, and structure
+                              tabular data (like spreadsheets or SQL tables) into usable objects.
+
